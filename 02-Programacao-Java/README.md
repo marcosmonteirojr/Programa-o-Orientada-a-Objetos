@@ -41,7 +41,7 @@ Para um aproveitamento do conteúdo desta unidade, é fundamental seguir o rotei
 | Tipo | Referência / Descrição | Acesso |
 | :---: | :--- | :--- |
 | **📖 Livro** | Livro Didático Principal da Disciplina | - |
-| **🖥️ Aula 2 ** | Aulas e materiais complementares | [Aula 2] (./Aula-2-Programaca-basica.pdf?raw=true)|
-| **🖥️ Aula 3 ** | Aulas e materiais complementares | [Aula 3] (./Aula-3-Programaca-basica.pdf?raw=true)|
+| **🖥️ Aula 2 ** | Aulas e materiais complementares | [Aula 2](./Aula-2-Programaca-basica.pdf?raw=true)|
+| **🖥️ Aula 3 ** | Aulas e materiais complementares | [Aula 3](./Aula-3-Programaca-basica.pdf?raw=true)|
 
 ---
