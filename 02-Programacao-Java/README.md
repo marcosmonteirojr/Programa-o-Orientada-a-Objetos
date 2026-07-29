@@ -42,6 +42,7 @@ Para um aproveitamento do conteúdo desta unidade, é fundamental seguir o rotei
 | :---: | :--- | :--- |
 | **📖 Livro** | Livro Didático Principal da Disciplina | - |
 | **🖥️ Aula 2 ** | Aulas e materiais complementares | [Aula 2](./Aula-2-Programacao-basica.pdf?raw=true)|
+| **🖥️ Exemplo ** | Entrada e saída de dados | [ExemploEntradaSaida](./Exemplos/ExemploEntradaSaida.java)|
 | **🖥️ Aula 3 ** | Aulas e materiais complementares | [Aula 3](./Aula-3-Programacao-basica.pdf?raw=true)|
 
 ---
