@@ -12,6 +12,6 @@ Repositório oficial da disciplina de Programação Orientada a Objetos (POO) do
 
 | Aula | Tópico | Conteúdos Principais | Material e Códigos |
 |:---:|---|---|:---:|
-| **01** | [Introdução à Java](./01-introducao-Java) | Java e linguagens interpretadas | [Acessar](./01-introducao-Java) |
+| **01** | [Introdução à Java](./01-introducao-Java) | Java e linguagens interpretadas | [Acessar](./01-introducao-Java/Aula-introducao-Java.pdf?raw=true) |
 | **02** | [Introdução à Java - Programação básica](./01-introducao-Java) | Programação básica em Java e configuração do ambiente | [Acessar](./01-introducao-Java).|
 | **03** | [Introdução - Programação básica II](./01-introducao-Java) | Programação básica em Java comandos comuns, sintaxe e Arrays | [Acessar](./01-introducao-Java).|
