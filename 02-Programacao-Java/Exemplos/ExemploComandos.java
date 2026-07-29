@@ -1,5 +1,5 @@
    import java.util.Scanner;
-    public class Exemplo {
+    public class ExemploComandos {
 
         public static void main(String[] args) {
 
