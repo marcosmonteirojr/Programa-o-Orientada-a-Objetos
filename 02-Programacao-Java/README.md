@@ -38,10 +38,11 @@ Para um aproveitamento do conteúdo desta unidade, é fundamental seguir o rotei
 
 ## 📚 Material de Apoio e Referências
 
-| Tipo | Referência / Descrição | 
-| :---: | :--- |
-| **📖 Livro** | Livro Didático Principal da Disciplina |
-| **📄 Apostila** | Apostila de Introdução à POO — *Unidade 2: Introdução a Java* |
-| **🖥️ Aulas** | Aulas e materiais complementares |
+| Tipo | Referência / Descrição | Acesso |
+| :---: | :--- | :--- |
+| **📖 Livro** | Livro Didático Principal da Disciplina | - |
+| **📄 Apostila** | Apostila de Introdução à POO — *Unidade 2: Introdução a Java* | - |
+| **🖥️ Aula 2 ** | Aulas e materiais complementares | #Aula-2-Programaca-basica.pdf?raw=true|
+| **🖥️ Aula 3 ** | Aulas e materiais complementares | #Aula-3-Programaca-basica.pdf?raw=true|
 
 ---
