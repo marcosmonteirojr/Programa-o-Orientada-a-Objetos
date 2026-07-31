@@ -45,4 +45,5 @@ Para um aproveitamento do conteúdo desta unidade, é fundamental seguir o rotei
 | **🖥️ Exemplo ** | Entrada e saída de dados | [ExemploEntradaSaida](./Exemplos/ExemploEntradaSaida.java)|
 | **🖥️ Aula 3 ** | Aulas e materiais complementares | [Aula 3](./Aula-3-Programacao-basica.pdf?raw=true)|
 | **🖥️ Exemplo ** | Exemplo de comandos básicos | [ExemploComandos](./Exemplos/ExemploComandos.java)|
+| **🖥️ Exercicios ** | Exercícios | [Exercícios](./Exercicios/Exercícios_1.pdf?rae=true)|
 ---
