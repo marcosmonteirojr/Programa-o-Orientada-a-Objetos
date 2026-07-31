@@ -31,7 +31,7 @@ Ao final desta unidade, o estudante será capaz de:
 Para um aproveitamento do conteúdo desta unidade, é fundamental seguir o roteiro de estudos recomendado:
 
 1. **Prática Contínua:** Execute todos os códigos demonstrados em aula na sua própria IDE para fixar a sintaxe e identificar possíveis erros em tempo real.
-2. **Atividades:** As atividades propostas no AVA são indispensáveis para a consolidação dos conceitos estudados. Realize-as com dedicação.
+2. **Atividades:** As atividades propostas são indispensáveis para a consolidação dos conceitos estudados. Realize-as com dedicação.
 3. **Engajamento:** A participação ativa e a prática autônoma são essenciais para o seu avanço na programação. Bons estudos! 
 
 ---
