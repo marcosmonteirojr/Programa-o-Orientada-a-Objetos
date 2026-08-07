@@ -50,5 +50,5 @@ Para um aproveitamento excelente do conteúdo desta unidade, recomenda-se:
 
 | Tipo | Referência / Descrição | Acesso |
 | :---: | :--- | :---: |
-| **📄 PDF** | *Fundamentos de Orientação a Objetos* | [Aula 5](./Aula-5-abstraca-classe-objeto.pdf?raw=true) |
-| **🖥️ Exercicios ** | Exercícios | [Exercícios](./Exercicios/Exercícios_3.pdf?rae=true)|
+| **📄 PDF** | *Fundamentos de Orientação a Objetos* | [Aula 5](./Aula-5-abstracao-classe-objeto.pdf?raw=true) |
+| **🖥️ Exercicios ** | Exercícios | [Exercícios](./Exercicios/Exercícios_3.pdf?raw=true)|
